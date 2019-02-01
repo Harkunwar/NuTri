@@ -1,6 +1,7 @@
 # nutri
 
-A new Flutter project.
+An app that can detect the number of calories of a fruit or by reading labels.
+
 
 ## Getting Started
 
